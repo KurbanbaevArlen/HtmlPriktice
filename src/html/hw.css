@@ -1,0 +1,85 @@
+.div1{
+    alagnside: centre;
+    width: 600px;
+    hight: 1500px;
+    background-color: pink;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 50px;
+    padding-bottom:60px;
+    margin-top: 50px;
+    margin-left: 50px;
+
+}
+.div2{
+    width: 400px;
+    hight: 1000px;
+    border-radius: 20px;
+    background-color: white;
+    padding-top:20px;
+    padding-flex: 1px;
+}
+#abad{
+    margin-top: 5px;
+    margin-right: 5px;
+    margin-bottom: 30px;
+    margin-left: 30px;
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    width: 300px;
+    hight: 500px;
+    alagnside: centre;
+    border-radius: 10px;
+    border-color: pink;
+    outline: none;
+
+}
+#osh{
+    margin-top: 5px;
+    margin-right: 5px;
+    margin-bottom: 15px;
+    margin-left: 30px;
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    width: 300px;
+    hight: 500px;
+    border-radius: 10px;
+    alagnside: centre;
+    border-color: pink;
+    outline: none;
+
+}
+#login{
+
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 15px;
+    margin-left: 140px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    width: 100px;
+    hight: 100px;
+    border-radius: 10px;
+    alagnside: centre;
+    border-color: pink;
+    background: mediumorchid;
+
+}
+#Name{
+    margin-left: 130px;
+    color:mediumorchid;
+}
+#password{
+    margin-left: 130px;
+    fond-color: pink;
+}
+#label{
+    display: block;
+    height: 20px;
+}
